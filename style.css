@@ -1,0 +1,16 @@
+body form div{
+    display: flex;
+    flex-direction: column;
+}
+
+body form div {
+    padding: 10px;
+}
+
+body form div textarea {
+    height: 150px;
+}
+
+.button {
+    margin: 10px;
+}
